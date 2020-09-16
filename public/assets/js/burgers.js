@@ -1,6 +1,8 @@
 $(document).ready(function () {
   $(".create-form").on("submit", function (event) {
-      // Make sure to preventDefault on a submit event.
+
+      // PreventDefault on a submit event
+
       event.preventDefault();
       var newBurger = {
           burger_name: $("#burger").val().trim(),
@@ -16,6 +18,9 @@ $(document).ready(function () {
           }
       );
   });
+
+  // Update event
+
   $(".devour").on("click", function () {
       var id = $(this).attr("data-id");
       var devBurger = {
