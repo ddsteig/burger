@@ -1,0 +1,68 @@
+h1 {
+  width: 100%;
+  text-align: center;
+  background-color: rgba(118, 119, 121, 0.836);
+  color: rgb(22, 22, 21);
+  padding: 2rem;
+  margin-bottom: 4rem;
+  box-shadow: 0px 5px;
+  color: black;
+}
+
+body {
+  background-image: url("../img/mainbg.jpg");
+}
+
+.container {
+  padding: 1rem;
+  background-color: rgba(118, 119, 121, 0.836);
+  border-radius: 10px;
+  box-shadow: 3px 3px;
+  color: black;
+  margin-bottom: 4rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin: 1rem;
+}
+
+.break {
+  margin: 3rem;
+}
+
+.ready {
+  border-radius: 5px;
+  margin: 1rem;
+  width: 350px;
+  background-color: rgb(24, 97, 42, 0.705);
+  padding: 1rem;
+  font-weight: bold;
+  color: ivory;
+}
+
+.eaten {
+  border-radius: 5px;
+  margin: 1rem;
+  width: 350px;
+  background-color: rgba(126, 6, 6, 0.705);
+  padding: 1rem;
+  font-weight: bold;
+  color: ivory;
+}
+
+.devour {
+  float: right;
+}
+
+button {
+  font-weight: bold;
+}
+
+label {
+  font-weight: bold;
+  font-size: 20px;
+}
