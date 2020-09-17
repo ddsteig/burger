@@ -2,6 +2,8 @@
   
   # Burger App
 
+  ![Burger App](./public/assets/img/app.jpg)
+
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
@@ -17,7 +19,11 @@
   
   ## Description <a name="description"></a>
   
-  A app that utilizes heroku, node, handlebars, and mysql database. Users are presented with a webpage loaded by handlebars that allows them to create and add a burger. Then they can devour it. The burger will move from the available list to the devoured once eaten. Created burgers and eaten burgers are updated to the mysql database. ORM stucture is used with the server methods.
+  A app that utilizes heroku, node, handlebars, and mysql database. Users are presented with a webpage loaded by handlebars that allows them to create and add a burger. Then they can devour it. The burger will move from the available list to the devoured once eaten. Created burgers and eaten burgers are updated to the mysql database.
+
+  ORM stucture is used with the server methods.
+
+  ![Folder Structure](./public/assets/img/structure.jpg)
   
   <hr>
   
@@ -29,16 +35,22 @@
   
   ## Usage <a name="usage"></a>
   
-  On localhost run the server and then go to the localhost:port. 
+  On localhost run the server and then go to the localhost:port.
+
+  ![Server](./public/assets/img/server.jpg)
   
   To run from Heroku use the provided link.
   Use can add a burger of their making to the available to eat list. It will generate a devour it button allowing it to be clicked and moving it from the available list to the devour list.
+
+  MySQL and JawsDB work with Heroku to put and get data from the database.
+
+  ![JawsDB](./public/assets/img/jawsdb.jpg)
   
   <hr>
   
   ## Resources <a name="resources"></a>
   
-  Heroku, Node, Handlebars, MySQL, ORM
+  Heroku, Node, Handlebars, MySQL, JawsDB, ORM
   
   <hr>
   
