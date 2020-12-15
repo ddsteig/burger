@@ -29,7 +29,7 @@
 
   ORM stucture is used with the server methods.
 
-  ![Folder Structure](./public/assets/img/structure.jpg)
+  ![Folder Structure](https://github.com/ddsteig/burger/blob/master/public/assets/img/structure.JPG)
   
   <hr>
   
@@ -43,14 +43,14 @@
   
   On localhost run the server and then go to the localhost:port.
 
-  ![Server](./public/assets/img/server.jpg)
+  ![Server](https://github.com/ddsteig/burger/blob/master/public/assets/img/server.JPG)
   
   To run from Heroku use the provided link.
   Use can add a burger of their making to the available to eat list. It will generate a devour it button allowing it to be clicked and moving it from the available list to the devour list.
 
   MySQL and JawsDB work with Heroku to put and get data from the database.
 
-  ![JawsDB](./public/assets/img/jawsdb.jpg)
+  ![JawsDB](https://github.com/ddsteig/burger/blob/master/public/assets/img/jawsdb.JPG)
   
   <hr>
   
