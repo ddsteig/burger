@@ -2,9 +2,11 @@
   
   # Burger App
 
-  ![Burger App](./public/assets/img/app.jpg)
-
+  <hr>
+  
   ### [Head to the Burger App here!](https://calm-anchorage-13152.herokuapp.com/)
+  
+  ![Burger App](./public/assets/img/app.jpg)
 
   <hr>
 
